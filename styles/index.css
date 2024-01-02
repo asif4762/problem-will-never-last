@@ -1,0 +1,17 @@
+div{
+    background-color: black;
+    text-align: center;
+    border: 15px solid purple;
+    padding: 10px;
+    height: 300px;
+    margin: 10px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    box-shadow: 10px 10px 20px blue;
+}
+
+h3{
+    text-decoration: underline;
+    font-weight: bolder;
+}
